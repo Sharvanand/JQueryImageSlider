@@ -1,0 +1,23 @@
+
+#slider-outer{
+  margin: auto;
+  width: 1000px;
+  height: 400px;
+  overflow: hidden;
+}
+#slider-outer .slider-inner{
+  display: block;
+  width: 4000px;
+  height: 400px;
+  margin: 0;
+  padding: 0;
+}
+#slider-outer .slider {
+  float: left;
+  list-style-type: none;
+  width: 1000px;
+  height: 400px;
+}
+h2{
+  text-align: center;
+}
